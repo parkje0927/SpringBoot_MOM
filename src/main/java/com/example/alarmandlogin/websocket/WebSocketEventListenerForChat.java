@@ -1,6 +1,6 @@
-package com.example.websockectandconcurrentlogin.websocket;
+package com.example.alarmandlogin.websocket;
 
-import com.example.websockectandconcurrentlogin.domain.Alarm;
+import com.example.alarmandlogin.domain.Alarm;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

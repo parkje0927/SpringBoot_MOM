@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.service.jms;
+package com.example.alarmandlogin.service.jms;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

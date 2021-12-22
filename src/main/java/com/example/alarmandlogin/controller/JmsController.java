@@ -1,7 +1,7 @@
-package com.example.websockectandconcurrentlogin.controller;
+package com.example.alarmandlogin.controller;
 
-import com.example.websockectandconcurrentlogin.domain.AlarmRequest;
-import com.example.websockectandconcurrentlogin.service.jms.Sender;
+import com.example.alarmandlogin.domain.AlarmRequest;
+import com.example.alarmandlogin.service.jms.Sender;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

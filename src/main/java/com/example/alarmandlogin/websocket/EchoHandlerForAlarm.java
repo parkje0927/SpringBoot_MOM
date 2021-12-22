@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.websocket;
+package com.example.alarmandlogin.websocket;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.WebSocketSession;

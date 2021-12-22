@@ -1,6 +1,6 @@
-package com.example.websockectandconcurrentlogin.controller;
+package com.example.alarmandlogin.controller;
 
-import com.example.websockectandconcurrentlogin.service.firebase.FirebaseService;
+import com.example.alarmandlogin.service.firebase.FirebaseService;
 import com.google.gson.JsonObject;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;

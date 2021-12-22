@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.domain;
+package com.example.alarmandlogin.domain;
 
 import lombok.Getter;
 import lombok.Setter;

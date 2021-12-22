@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin;
+package com.example.alarmandlogin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

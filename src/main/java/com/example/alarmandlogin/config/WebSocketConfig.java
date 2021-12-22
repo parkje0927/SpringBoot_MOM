@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.config;
+package com.example.alarmandlogin.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;

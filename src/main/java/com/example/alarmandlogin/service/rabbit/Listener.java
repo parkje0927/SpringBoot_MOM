@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.service.rabbit;
+package com.example.alarmandlogin.service.rabbit;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

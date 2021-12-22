@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.service.jms;
+package com.example.alarmandlogin.service.jms;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.service.firebase;
+package com.example.alarmandlogin.service.firebase;
 
 import com.google.api.client.googleapis.auth.oauth2.GoogleCredential;
 import com.google.auth.oauth2.GoogleCredentials;

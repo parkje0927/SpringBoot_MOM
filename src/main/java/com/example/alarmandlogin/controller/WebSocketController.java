@@ -1,6 +1,6 @@
-package com.example.websockectandconcurrentlogin.controller;
+package com.example.alarmandlogin.controller;
 
-import com.example.websockectandconcurrentlogin.domain.Alarm;
+import com.example.alarmandlogin.domain.Alarm;
 import lombok.RequiredArgsConstructor;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;

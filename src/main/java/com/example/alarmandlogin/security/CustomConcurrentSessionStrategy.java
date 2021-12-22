@@ -1,4 +1,4 @@
-package com.example.websockectandconcurrentlogin.security;
+package com.example.alarmandlogin.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.session.SessionRegistry;

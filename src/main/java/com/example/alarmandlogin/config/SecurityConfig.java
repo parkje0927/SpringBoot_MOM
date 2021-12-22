@@ -1,6 +1,6 @@
-package com.example.websockectandconcurrentlogin.config;
+package com.example.alarmandlogin.config;
 
-import com.example.websockectandconcurrentlogin.security.CustomConcurrentSessionStrategy;
+import com.example.alarmandlogin.security.CustomConcurrentSessionStrategy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
